@@ -1,0 +1,1273 @@
+[{
+	"name": "Varpaängen",
+	"desc": "Hundrastområde. Varpaängen, norr om varvet.",
+	"x": 6575523.04462332,
+	"y": 145094.955117298,
+	"lat": 59.2948966,
+	"long": 17.913921
+},
+{
+	"name": "Abrahamsberg",
+	"desc": "Skidbacksskogen.",
+	"x": 6579428.70100418,
+	"y": 147392.781838624,
+	"lat": 59.3299765,
+	"long": 17.9541986
+},
+{
+	"name": "Akallastigen",
+	"desc": "Hundrastgård.",
+	"x": 6588413.41227801,
+	"y": 144926.821454762,
+	"lat": 59.4106056,
+	"long": 17.910667
+},
+{
+	"name": "Alvik",
+	"desc": "Grönområdet öster om Runda vägen mellan bollplanen och Mälarparken.",
+	"x": 6579049.45588527,
+	"y": 149012.57934567,
+	"lat": 59.3265791,
+	"long": 17.9826556
+},
+{
+	"name": "Arenaslingan",
+	"desc": "undrastområde. Parkmark mellan Nynäsvägen och Arenaslingan.",
+	"x": 6575222.21803665,
+	"y": 154866.027832031,
+	"lat": 59.2921966,
+	"long": 18.0853875
+},
+{
+	"name": "Aspudden",
+	"desc": "Skogsområdet söder om Vinterviksvägen från Essingeleden till Mälaren och bebyggelsen i söder.",
+	"x": 6577177.734375,
+	"y": 149107.217788696,
+	"lat": 59.3097776,
+	"long": 17.9843257
+},
+{
+	"name": "Bagarmossenskogen",
+	"desc": "Naturområde mellan Sekreterarbacken och kommungränsen vid Ältaån.",
+	"x": 6572947.31315034,
+	"y": 157241.238594493,
+	"lat": 59.2717416,
+	"long": 18.1269908
+},
+{
+	"name": "Bandängen",
+	"desc": "Hundrastgård. Intill Bandängen, väster om tunnelbanespåren och bredvid gångtunneln.",
+	"x": 6572397.85673683,
+	"y": 152634.596023571,
+	"lat": 59.266863,
+	"long": 18.0461967
+},
+{
+	"name": "Bastuhagsvägen",
+	"desc": "Hundrastområde. Ängsmarken norr om Örbyleden från Bastuhagsvägen till T-banan.",
+	"x": 6573116.54572571,
+	"y": 152751.080783236,
+	"lat": 59.2733137,
+	"long": 18.0482484
+},
+{
+	"name": "Bellevue",
+	"desc": "Ett hundrastområde i Bellevueparken. Norr om Brunnsviksvägen. Skyltar över hundrastområdet finns utefter vägen.",
+	"x": 6582217.56146881,
+	"y": 152718.113398425,
+	"lat": 59.3550103,
+	"long": 18.0477847
+},
+{
+	"name": "Björns Trädgård - Kapellgränd",
+	"desc": "Hundrastgård vid trappen ned mot Björns Trädgård. I hundrastgården finns en agilitybana.",
+	"x": 6577833.99820177,
+	"y": 154190.107130236,
+	"lat": 59.3156488,
+	"long": 18.0735773
+},
+{
+	"name": "Blåsut",
+	"desc": "Hundrastgård. Intill Blåsuts tunnelbanestation.",
+	"x": 6575244.04095884,
+	"y": 155197.260736212,
+	"lat": 59.2923886,
+	"long": 18.0912004
+},
+{
+	"name": "Bolidenvägen",
+	"desc": "Hundrastområde. Parkmark mellan Konstgjutarvägen-Palmfeltsvägen-Bolidenvägen.",
+	"x": 6575536.35177083,
+	"y": 154111.534863103,
+	"lat": 59.2950245,
+	"long": 18.0721539
+},
+{
+	"name": "Bredängs hundrastgård",
+	"desc": "Den inhägnade hundrastgården ligger vid Stora Sällskapets stig intill Bredängs camping.",
+	"x": 6575549.41853117,
+	"y": 145448.805047602,
+	"lat": 59.2951373,
+	"long": 17.9201302
+},
+{
+	"name": "Bromma Kyrka",
+	"desc": "Skogsområdet mellan Dr Abrahams väg och Tornväktargränd.",
+	"x": 6582450.86983688,
+	"y": 145502.128975787,
+	"lat": 59.3570893,
+	"long": 17.9209222
+},
+{
+	"name": "Bromsten - Rinkeby",
+	"desc": "Rissne skog. Undvik att rasta hundarna i anslutning till motionsslingan. I området kan vilda djur förekomma och då gäller jaktlagens bestämmelser om speciell tillsyn under tiden 1 mars - 20 augusti.",
+	"x": 6585203.44734192,
+	"y": 146050.415039063,
+	"lat": 59.3818034,
+	"long": 17.9305112
+},
+{
+	"name": "Broparken",
+	"desc": "Hundrastområde i delar av Broparken på Stora Essingen. 19 000 kvm.",
+	"x": 6578470.55912018,
+	"y": 149883.728027344,
+	"lat": 59.3213837,
+	"long": 17.9979579
+},
+{
+	"name": "Ekhagen",
+	"desc": "Ekhagen vid bollplanen.",
+	"x": 6583903.29837799,
+	"y": 153230.895996094,
+	"lat": 59.3701387,
+	"long": 18.0568247
+},
+{
+	"name": "Eneby",
+	"desc": "Parkområdet norr om Dr Abrahams väg, Vinbärsvägen och Plommonvägen.",
+	"x": 6582938.75295455,
+	"y": 144864.045180308,
+	"lat": 59.3614616,
+	"long": 17.9096923
+},
+{
+	"name": "Fagersjö-Farsta strand",
+	"desc": "Utefter Magelungsstranden, söder om Magelungsvägen, mellan Fagersjö och Farsta idrottsplats.",
+	"x": 6569763.12364073,
+	"y": 153979.125925781,
+	"lat": 59.2432014,
+	"long": 18.0697242
+},
+{
+	"name": "Farsta strand",
+	"desc": "Skogsområdet vid Magelungen, söder om Ullerudsbacken och Högerudsbacken.",
+	"x": 6568420.71092541,
+	"y": 155726.936718842,
+	"lat": 59.2311309,
+	"long": 18.1003148
+},
+{
+	"name": "Fatbursparken",
+	"desc": "Hundrastgård vid Fatbursparkens norra del mot järnvägsspåret.",
+	"x": 6577827.95418123,
+	"y": 153975.819128965,
+	"lat": 59.3155966,
+	"long": 18.0698143
+},
+{
+	"name": "Finlandsgatan Akalla",
+	"desc": "Hundrastgård.",
+	"x": 6589190.22345313,
+	"y": 145255.396390044,
+	"lat": 59.4175825,
+	"long": 17.9164356
+},
+{
+	"name": "Flysta",
+	"desc": "Flystaberget.",
+	"x": 6583658.75445735,
+	"y": 144608.031883741,
+	"lat": 59.3679215,
+	"long": 17.9051727
+},
+{
+	"name": "Fredhällsparken",
+	"desc": "Fredhällsparken, längst västerut, väster om Nordenflychtsvägen.\nHundrastområde (inte inhägnat) där det är tillåtet att ha hundar lösa under uppsikt. Cirka 12 000 kvm.",
+	"x": 6579750.88786846,
+	"y": 149954.027325974,
+	"lat": 59.3328767,
+	"long": 17.9991923
+},
+{
+	"name": "Fruängen",
+	"desc": "Skogsområdet söder om kvarteret Tältlägret vid Vantörsvägen.",
+	"x": 6574024.24772084,
+	"y": 147810.368712896,
+	"lat": 59.2814652,
+	"long": 17.9615891
+},
+{
+	"name": "Gotlandsparken - Gotlandsgatan",
+	"desc": "Hundrastgård i Gotlandsparken som ligger vid Gotlandsgatans västra ände.",
+	"x": 6577181.46487485,
+	"y": 154437.827848625,
+	"lat": 59.3097887,
+	"long": 18.0779138
+},
+{
+	"name": "Grimsta gärde/fältet",
+	"desc": "Grimsta gärde/fältet vid Råcksta krematorium. Respektera hundrastområdets gränser.",
+	"x": 6582361.46109098,
+	"y": 142082.133359323,
+	"lat": 59.3562364,
+	"long": 17.8607982
+},
+{
+	"name": "Grimstafältet",
+	"desc": "Inhägnad hundrastgård på Grimstafältet, mittemot de dammar som ligger nära Hässelbyrondellen.",
+	"x": 6583249.05091499,
+	"y": 141986.025390659,
+	"lat": 59.3642021,
+	"long": 17.8590755
+},
+{
+	"name": "Gröndal",
+	"desc": "Skogsområdet norr och öster om Ekensbergsvägen.",
+	"x": 6577921.14257813,
+	"y": 149773.721694946,
+	"lat": 59.3164518,
+	"long": 17.9960265
+},
+{
+	"name": "Gubbängen",
+	"desc": "Parkmark väster om tunnelbanan mellan Majrovägen och Örbyleden.",
+	"x": 6571667.81490913,
+	"y": 154588.507504699,
+	"lat": 59.260293,
+	"long": 18.0804424
+},
+{
+	"name": "Hagsätra",
+	"desc": "Hundrastområde. Grönområdet norr om Hagsätra IP mellan järnvägen, Huddungevägen och Älvsjöbadet.",
+	"x": 6572549.84378815,
+	"y": 150905.456542969,
+	"lat": 59.2682346,
+	"long": 18.0158775
+},
+{
+	"name": "Hammarbyhöjden",
+	"desc": "Parkområde mellan Alingsåsvägen och tunnelbanan.",
+	"x": 6575427.28246727,
+	"y": 155679.013741693,
+	"lat": 59.2940273,
+	"long": 18.0996589
+},
+{
+	"name": "Hammarbyskogen",
+	"desc": "Skogsområde från Strahlenbergsgatans förlängning till kommungränsen mot Nacka.",
+	"x": 6576047.85676669,
+	"y": 156283.004440724,
+	"lat": 59.2995894,
+	"long": 18.1102761
+},
+{
+	"name": "Hemskogen",
+	"desc": "Hundrastområde. Mellan T-bana och Bägerstabyväg-Östrandsvägen.",
+	"x": 6574124.00840092,
+	"y": 153236.164943807,
+	"lat": 59.282354,
+	"long": 18.0567708
+},
+{
+	"name": "Herrängen",
+	"desc": "Hundrastområde. Skogsområdet vid Långsjön vid Maskrosstigen.",
+	"x": 6572809.15590487,
+	"y": 147834.672676293,
+	"lat": 59.2705578,
+	"long": 17.9620276
+},
+{
+	"name": "Herrängsskogen",
+	"desc": "Hundrastområde. Grönområdet söder om Vantörsvägen mellan Guldregnsbacken och Svartlösavägen.",
+	"x": 6573592.33439967,
+	"y": 148510.179467118,
+	"lat": 59.2775911,
+	"long": 17.9738683
+},
+{
+	"name": "Hjorthagen",
+	"desc": "Parkområdet mellan kvarteret Villebrådet, Hjorthagens kyrka, Gasverksvägen och Dianavägen. Södra Hjorthagsparken väster om Trollhättevägen och kvarteret Ljusbågen och söder om Lansforsvägen.\nHundrastområde (inte inhägnat) där det är tillåtet att ha hundar lösa under uppsikt. Cirka 13 750 kvm.",
+	"x": 6582540.01289553,
+	"y": 155660.061586381,
+	"lat": 59.3578755,
+	"long": 18.0995128
+},
+{
+	"name": "Hjorthagsparken",
+	"desc": "Ahlsellsvägen vid kvarteret Ljusbågen. \nInhägnad hundrastgård, cirka 3 630 kvm. Solcellsdriven belysning med rörelsedetektor - när man öppnar grinden tänds lampan.",
+	"x": 6582239.29129524,
+	"y": 155260.006606808,
+	"lat": 59.3551813,
+	"long": 18.0924718
+},
+{
+	"name": "Hornsviksstigen - Drakenbergsparken",
+	"desc": "Hundrastgården ligger på Södra sidan av Hornsviksstigen snett emot parkleken. Gå Zinkens väg över Hornsviksstigen ned mot Drakenbergsparken.",
+	"x": 6577660.30987831,
+	"y": 152364.495270045,
+	"lat": 59.3141038,
+	"long": 18.0415181
+},
+{
+	"name": "Humlegården",
+	"desc": "Humlegården mot Engelbrektsgatan. \nInhägnad hundrastgård, cirka 960 kvm.",
+	"x": 6580342.7560891,
+	"y": 153995.513707287,
+	"lat": 59.3381708,
+	"long": 18.0702067
+},
+{
+	"name": "Eriksdalslunden",
+	"desc": "Hundrastområdet i Eriksdalslunden ligger söder om koloniområdet mellan Vickersgatan och Flintbacken.",
+	"x": 6577018.54478732,
+	"y": 152955.942172913,
+	"lat": 59.3083392,
+	"long": 18.0518945
+},
+{
+	"name": "Långholmen",
+	"desc": "Hundrastområde runt teaterplatsen och vid Långholmens klippbad på östra Långholmen. Området närmast teaterplatsen är ej hundrastområde. 4 latriner finns i området.",
+	"x": 6578609.98766977,
+	"y": 151895.03669407,
+	"lat": 59.3226311,
+	"long": 18.0332832
+},
+{
+	"name": "Reimersholme",
+	"desc": "Hundrastområdet är parkområdet mellan Mälaren i norr och Fabriksbacken i söder. 2 latriner finns i området.",
+	"x": 6578235.04128685,
+	"y": 151128.450141558,
+	"lat": 59.3192681,
+	"long": 18.0198174
+},
+{
+	"name": "Tantolunden",
+	"desc": "Hundrastområde i Tantolunden norr om järnvägen och koloniområdet fram till parkvägen i väst-östlig riktning.",
+	"x": 6577435.03274877,
+	"y": 152671.091948787,
+	"lat": 59.3120798,
+	"long": 18.0468988
+},
+{
+	"name": "Skärholmsbäcken",
+	"desc": "Hundrastområde, Början av Skärholmsbäcken, väster om kvarteret Gillsätra.",
+	"x": 6574115.2170983,
+	"y": 144521.786225435,
+	"lat": 59.282252,
+	"long": 17.9038981
+},
+{
+	"name": "Borgmästarskyddsparken",
+	"desc": "Hundrastområde, Ängen mellan Borgmästarskyddsparken och Sätra strandbad.",
+	"x": 6574596.54091654,
+	"y": 144190.781662574,
+	"lat": 59.2865682,
+	"long": 17.8980785
+},
+{
+	"name": "Hägersten",
+	"desc": "Parkområdet söder om Selmedalsvägen.",
+	"x": 6576538.36480187,
+	"y": 148166.593346118,
+	"lat": 59.3040352,
+	"long": 17.9678168
+},
+{
+	"name": "Hägersten",
+	"desc": "Skogsområdet väster om Eolshäll fram till och med Klubbacken.",
+	"x": 6576893.46044231,
+	"y": 148100.631307646,
+	"lat": 59.3072225,
+	"long": 17.9666558
+},
+{
+	"name": "Hägerstensåsen",
+	"desc": "Området väster om bebyggelsen vid Inteckningsvägen till parkvägen längs Personnevägen.",
+	"x": 6575254.78969993,
+	"y": 148903.615270665,
+	"lat": 59.2925155,
+	"long": 17.9807608
+},
+{
+	"name": "Hägerstensåsen",
+	"desc": "Naturmarksområdet norr och väster om kvarteret Telefonfabriken.",
+	"x": 6576078.18603516,
+	"y": 149360.432624817,
+	"lat": 59.2999078,
+	"long": 17.9887745
+},
+{
+	"name": "Hässelby gård Astrakangatan",
+	"desc": "Skogsområdet norr och väster om Astrakangatan.",
+	"x": 6584331.80965122,
+	"y": 140634.93155622,
+	"lat": 59.3738937,
+	"long": 17.8352697
+},
+{
+	"name": "Hässelby gård Måbärsstigen ",
+	"desc": "Parkområde norr om Måbärsstigen och Fyrklöverbackarna.",
+	"x": 6583547.22788926,
+	"y": 140277.107514697,
+	"lat": 59.3668428,
+	"long": 17.8290111
+},
+{
+	"name": "Hässelby Villastad",
+	"desc": "Grönområdet innanför Valfrid Brodds väg.",
+	"x": 6584084.47485956,
+	"y": 139293.00346721,
+	"lat": 59.3716415,
+	"long": 17.8116778
+},
+{
+	"name": "Hässelby Villastad",
+	"desc": "Skogsområde öster om kv Björnmossen och Dvärglinet.",
+	"x": 6586252.55919704,
+	"y": 140028.217034382,
+	"lat": 59.3911213,
+	"long": 17.8245087
+},
+{
+	"name": "Hässelby Villastad Blåklocksvägen",
+	"desc": "Parkområdet söder om Blåklocksvägen.",
+	"x": 6583588.64846187,
+	"y": 139748.776434103,
+	"lat": 59.3672021,
+	"long": 17.8197179
+},
+{
+	"name": "Högdalen",
+	"desc": "Hundrastområde. Skogsområdet öster och söder om Trollesundsvägen till industriområdena vid Stallarholmsvägen.",
+	"x": 6571704.3922786,
+	"y": 152865.304586159,
+	"lat": 59.2606365,
+	"long": 18.050233
+},
+{
+	"name": "Högdalen-Örby",
+	"desc": "Hundrastområde. Naturmark norr om Magelungsvägen från Rågsvedsvägen till Turingevägens vändplats.",
+	"x": 6572284.20793828,
+	"y": 151483.264722004,
+	"lat": 59.2658485,
+	"long": 18.0260078
+},
+{
+	"name": "Högdalens industriområde",
+	"desc": "Hundrastgård. Mellan Högdalens industriomr och Trollesundsv, intill korvkiosk.",
+	"x": 6571561.89520969,
+	"y": 152736.256189973,
+	"lat": 59.2593582,
+	"long": 18.0479687
+},
+{
+	"name": "Högdalstopparna",
+	"desc": "Hundrastområde. Parkmark och rekreationsområde sydost om Högdalen.",
+	"x": 6571353.06329836,
+	"y": 153087.239676237,
+	"lat": 59.2574812,
+	"long": 18.0541188
+},
+{
+	"name": "Hökarängen 1",
+	"desc": "Parkområdet väster om tunnelbanan från Hökarängens tunnelbanestation fram till Pepparvägen i söder.",
+	"x": 6571299.42216035,
+	"y": 154719.641106634,
+	"lat": 59.2569846,
+	"long": 18.0827333
+},
+{
+	"name": "Hökarängen 2",
+	"desc": "Parkmarken väster om Nynäsvägen, söder om Söndagsvägens vändplan fram till parkvägen från Söndagsvägen till Kvickensvägen/Farstavägen.",
+	"x": 6571002.96274114,
+	"y": 155477.168628118,
+	"lat": 59.2543143,
+	"long": 18.096005
+},
+{
+	"name": "Hökarängen 3",
+	"desc": "Gökdalen, skogsområdet mellan Örbyleden, Högdalens industriområde, samt Hökarängen/Fagerängen.",
+	"x": 6571328.03532946,
+	"y": 153857.312680351,
+	"lat": 59.2572502,
+	"long": 18.0676176
+},
+{
+	"name": "Igelbäckstigen",
+	"desc": "Hundrastgård.",
+	"x": 6586898.87001517,
+	"y": 146324.003261769,
+	"lat": 59.3970249,
+	"long": 17.9352957
+},
+{
+	"name": "Tensta",
+	"desc": "Skogsområdet mellan Tenstavägen och Solhemsbackarna.",
+	"x": 6586239.52231895,
+	"y": 143866.198871546,
+	"lat": 59.3910776,
+	"long": 17.8920527
+},
+{
+	"name": "Solhem – Kälvesta",
+	"desc": "Parkområde söder om Lunda industriområde från Älvkvarnsvägen – Tumultgränd.",
+	"x": 6585745.01154679,
+	"y": 142180.466594877,
+	"lat": 59.3866108,
+	"long": 17.862404
+},
+{
+	"name": "Solhem",
+	"desc": "Skogsområdet söder om idrottsplatsen Gläntan.",
+	"x": 6584734.01174592,
+	"y": 143426.633740732,
+	"lat": 59.3775568,
+	"long": 17.884363
+},
+{
+	"name": "Vällingby Vinstavägen",
+	"desc": "Ängsytan mellan Vinstavägen och Skattegårdsvägen.",
+	"x": 6583986.75102354,
+	"y": 142991.464261227,
+	"lat": 59.370842,
+	"long": 17.8767319
+},
+{
+	"name": "Sundby",
+	"desc": "Grönområde väster om Stockeldsvägens vändplats.",
+	"x": 6584435.10745697,
+	"y": 144778.296517983,
+	"lat": 59.3748926,
+	"long": 17.9081483
+},
+{
+	"name": "Vällingby Fornkullen",
+	"desc": "Fornkullen.",
+	"x": 6583261.46855769,
+	"y": 142258.317700467,
+	"lat": 59.3643187,
+	"long": 17.8638633
+},
+{
+	"name": "Norra Ängby",
+	"desc": "Björklundshage söder om Svoldervägen.",
+	"x": 6581588.92323495,
+	"y": 144167.300986153,
+	"lat": 59.3493357,
+	"long": 17.8974778
+},
+{
+	"name": "Riksby",
+	"desc": "Skogsområdet väster om Kortenslunds koloniområde begränsat av Gliavägen i norr och Spångavägen i söder.",
+	"x": 6581749.3645077,
+	"y": 146007.808266304,
+	"lat": 59.3507973,
+	"long": 17.9298256
+},
+{
+	"name": "Mariehäll",
+	"desc": "Grönområdet söder om Alpvägen.",
+	"x": 6582951.57514047,
+	"y": 147318.982974083,
+	"lat": 59.3615994,
+	"long": 17.9528584
+},
+{
+	"name": "Södra Ängby",
+	"desc": "Skogsområde söder om T-bana mellan Islandstorget och Ängbyplan.",
+	"x": 6580949.35596962,
+	"y": 144341.856420522,
+	"lat": 59.343597,
+	"long": 17.9005627
+},
+{
+	"name": "Södra Ängby",
+	"desc": "Skogsområde öster om Blackebergsvägen.",
+	"x": 6580492.20823357,
+	"y": 143647.343513837,
+	"lat": 59.3394835,
+	"long": 17.8883707
+},
+{
+	"name": "Judarnskogen",
+	"desc": "Föreningen Hundvännerna har givit Hundstallet en donation till ett hundrastområde i naturreservatet Judarnskogen, nära Bergslagsvägen. Hundrastområdet är omgärdat av ett stängsel, som är oskyltat. Området är även öppet för allmänheten.",
+	"x": 6580755.94731206,
+	"y": 145145.333402212,
+	"lat": 59.3418708,
+	"long": 17.9146875
+},
+{
+	"name": "Nockebyhov",
+	"desc": "Gräsytan mellan Åkeshovs allén, Ryssmuren i väst-nordost och parkvägen som leder in i Judarskogen.",
+	"x": 6580453.74628463,
+	"y": 145598.720795928,
+	"lat": 59.3391631,
+	"long": 17.9226612
+},
+{
+	"name": "Åkeshov",
+	"desc": "Parkområdet mellan Åkeshovs reningsverk och Åkeshovsvägen.",
+	"x": 6580370.22890977,
+	"y": 145915.207690113,
+	"lat": 59.3384165,
+	"long": 17.928224
+},
+{
+	"name": "Riksby",
+	"desc": "Skogsområdet söder om Salixvägen.",
+	"x": 6580843.86033822,
+	"y": 146551.941820814,
+	"lat": 59.3426738,
+	"long": 17.9394048
+},
+{
+	"name": "Ulvsunda industriområde",
+	"desc": "Skogsområdet mellan Huvudstaleden och Pripps bryggerier.",
+	"x": 6581639.47322499,
+	"y": 148297.015390142,
+	"lat": 59.3498263,
+	"long": 17.970066
+},
+{
+	"name": "Ulvsunda industriområde",
+	"desc": "Vid korsningen Björkbacksvägen och Norrbyvägen.",
+	"x": 6581136.17115021,
+	"y": 147945.363285492,
+	"lat": 59.3453068,
+	"long": 17.9638896
+},
+{
+	"name": "Åkeslund",
+	"desc": "Parkområdet söder om tunnelbanan.",
+	"x": 6580290.0082734,
+	"y": 146839.856981497,
+	"lat": 59.3377044,
+	"long": 17.9444727
+},
+{
+	"name": "Nockebyhov",
+	"desc": "Gubbkärrsskogen.",
+	"x": 6579650.44100807,
+	"y": 144536.535696036,
+	"lat": 59.3319397,
+	"long": 17.9040169
+},
+{
+	"name": "Nockeby",
+	"desc": "Nockebyskogen söder om Gustav III:s väg.",
+	"x": 6579685.60621853,
+	"y": 145819.602274161,
+	"lat": 59.33227,
+	"long": 17.9265574
+},
+{
+	"name": "Nockeby",
+	"desc": "Folkaredalen mellan Grönviksvägen och Nockeby kyrkväg.",
+	"x": 6579079.00633801,
+	"y": 145520.697985208,
+	"lat": 59.3268218,
+	"long": 17.9213187
+},
+{
+	"name": "Ålsten-Olovslund",
+	"desc": "Sångarlunden.",
+	"x": 6579153.73241024,
+	"y": 146646.448323939,
+	"lat": 59.327503,
+	"long": 17.9410919
+},
+{
+	"name": "Ulvsunda",
+	"desc": "Ulvsundaberget.",
+	"x": 6580485.61475661,
+	"y": 148470.643616814,
+	"lat": 59.3394693,
+	"long": 17.9731261
+},
+{
+	"name": "Stora Mossen",
+	"desc": "Parkområdet söder om T-banan.",
+	"x": 6579883.4105274,
+	"y": 148211.935498612,
+	"lat": 59.3340625,
+	"long": 17.968585
+},
+{
+	"name": "Traneberg",
+	"desc": "Parkmark mellan tunnelbanan och Tranebergsstrand.",
+	"x": 6579727.36490596,
+	"y": 149333.925495013,
+	"lat": 59.332665,
+	"long": 17.988298
+},
+{
+	"name": "Äppelviken",
+	"desc": "Borgberget.",
+	"x": 6578638.34229437,
+	"y": 148791.062558458,
+	"lat": 59.3228881,
+	"long": 17.9787668
+},
+{
+	"name": "Äppelviken - Ålsten",
+	"desc": "Nyängsparken.",
+	"x": 6579029.55526079,
+	"y": 147772.370367799,
+	"lat": 59.3263957,
+	"long": 17.960871
+},
+{
+	"name": "Smedslätten-Ålsten",
+	"desc": "Storskogen.",
+	"x": 6578319.65757453,
+	"y": 147633.907351593,
+	"lat": 59.3200225,
+	"long": 17.9584466
+},
+{
+	"name": "Ålsten",
+	"desc": "Höglandsparken öster om Djupdalsvägen.",
+	"x": 6578417.46081613,
+	"y": 146837.659155843,
+	"lat": 59.3208953,
+	"long": 17.9444615
+},
+{
+	"name": "Smedslätten",
+	"desc": "Östra Ålstensskogen fram till skogsbrynet vid ängen söder om Ålstensgatan.",
+	"x": 6578013.06089578,
+	"y": 148013.495880768,
+	"lat": 59.3172723,
+	"long": 17.9651158
+},
+{
+	"name": "Lilla Essingen",
+	"desc": "Lilla Essingen, längs med Dagnyvägen. \nInhägnad hundrastgård, cirka 750 kvm.",
+	"x": 6578908.67484982,
+	"y": 150025.141663216,
+	"lat": 59.3253165,
+	"long": 18.0004416
+},
+{
+	"name": "Vinterviken",
+	"desc": "Hundrastgård norr om koloniträdgårdarna i Vinterviken.",
+	"x": 6577459.20883096,
+	"y": 149828.204465253,
+	"lat": 59.3123052,
+	"long": 17.9969836
+},
+{
+	"name": "Lilljansskogen",
+	"desc": "En del av Lilljansskogen. Området gränsar i norr till Uggleängsvägen, i öster till belyst motionsspår, i söder motionsspåret och i väster till motionsspår och Klappjaktsvägen. \nHundrastområde (inte inhägnat) där det är tillåtet att ha hundar lösa under uppsikt. Cirka 100 000 kvm.",
+	"x": 6581920.79490871,
+	"y": 154561.745711928,
+	"lat": 59.3523304,
+	"long": 18.0801896
+},
+{
+	"name": "Kampementsbacken",
+	"desc": "Kampementsbacken mot Värtavägen. \nInhägnad hundrastgård, cirka 2 770 kvm.",
+	"x": 6581111.99506802,
+	"y": 155855.337814475,
+	"lat": 59.3450542,
+	"long": 18.1029072
+},
+{
+	"name": "Tessinparken",
+	"desc": "Hundrastgård bredvid Tessinparkens fotbollsplan. \nInhägnad hundrastgård, 220 kvm.",
+	"x": 6581097.70920127,
+	"y": 155347.176484537,
+	"lat": 59.3449327,
+	"long": 18.093976
+},
+{
+	"name": "Ladugårdsgärdet",
+	"desc": "Söder om Greve von Essens väg från Hakberget till Djurgårdsbrunnsvägen. \nHundrastområde (inte inhägnat) där det är tillåtet att ha hundar lösa under uppsikt. Cirka 395 000 kvm.",
+	"x": 6580177.91916504,
+	"y": 156389.409448413,
+	"lat": 59.3366617,
+	"long": 18.1122658
+},
+{
+	"name": "Sankt Eriksparken",
+	"desc": "Hundrastgården är avstängd tills vidare på grund av byggarbeten.\nInhägnad hundrastgård, cirka 340 kvm.",
+	"x": 6581524.08737816,
+	"y": 152360.331420661,
+	"lat": 59.3487874,
+	"long": 18.0414872
+},
+{
+	"name": "Vanadislunden",
+	"desc": "Mitt i Vanadislunden på krönet av berget. \nInhägnad hundrastgård, cirka 1 860 kvm.",
+	"x": 6581472.43847529,
+	"y": 153153.746481779,
+	"lat": 59.3483186,
+	"long": 18.0554322
+},
+{
+	"name": "Observatorielunden",
+	"desc": "I Observatorielunden, i slänten norr om parkleken. \nInhägnad hundrastgård.",
+	"x": 6580773.52991729,
+	"y": 153184.516040936,
+	"lat": 59.3420445,
+	"long": 18.0559627
+},
+{
+	"name": "Vasaparken",
+	"desc": "På en slänt inne i Vasaparken närmast Torsgatan. \nInhägnad hundrastgård, cirka 650 kvm.",
+	"x": 6580474.62562834,
+	"y": 152275.079824002,
+	"lat": 59.3393673,
+	"long": 18.0399777
+},
+{
+	"name": "Solvändan",
+	"desc": "Intill Torsgatan nedanför Solvändans lekplats. \nInhägnad hundrastgård, cirka 470 kvm. I hundrastgården finns hinder och lekredskap för hundar.",
+	"x": 6581002.10378532,
+	"y": 151984.966837665,
+	"lat": 59.3441037,
+	"long": 18.0348847
+},
+{
+	"name": "Kvarnberget",
+	"desc": "Kvarnberget, ovanför Carl-Gustaf Lindstedts Gata och i anslutning till S:t Eriksområdet. \nInhägnad hundrastgård, cirka 550 kvm.",
+	"x": 6579949.34529702,
+	"y": 152512.444994641,
+	"lat": 59.3346507,
+	"long": 18.0441426
+},
+{
+	"name": "Kronobergsparken",
+	"desc": "Kronobergsparken, nordost om topplatsen. \nInhägnad hundrastgård, cirka 1 000 kvm.",
+	"x": 6579670.22143895,
+	"y": 152064.72387019,
+	"lat": 59.3321476,
+	"long": 18.0362736
+},
+{
+	"name": "S:t Göransparken",
+	"desc": "S:t Göransparken, ovanpå T-banenedgången. \nInhägnad hundrastgård, cirka 400 kvm.",
+	"x": 6579997.69746141,
+	"y": 151419.662040721,
+	"lat": 59.3350898,
+	"long": 18.0249432
+},
+{
+	"name": "Konradsbergsparken",
+	"desc": "Inhägnad hundrastgård som är tvådelad. Den ena delen innehåller hinder inspirerad av agility. 1 300 kvm.",
+	"x": 6579514.17581751,
+	"y": 151126.252315903,
+	"lat": 59.3307504,
+	"long": 18.0197855
+},
+{
+	"name": "Prins Eugens väg",
+	"desc": "Prins Eugens Väg, vid Valdemarsuddes parkeringsplats. \nInhägnad hundrastgård.",
+	"x": 6578358.11952347,
+	"y": 156464.77082963,
+	"lat": 59.320325,
+	"long": 18.1135355
+},
+{
+	"name": "Monteliusvägen",
+	"desc": "Hundrastgården ligger nedanför Monteliusvägen till höger om trätrappan.",
+	"x": 6578400.97712373,
+	"y": 153399.902955035,
+	"lat": 59.3207454,
+	"long": 18.0597104
+},
+{
+	"name": "Skinnarviksberget",
+	"desc": "Hundrastgård Skinnarviksberget vid gångvägen som går mellan Skinnarviksparken och Gamla Lundagatan.",
+	"x": 6578274.60214862,
+	"y": 152874.622623713,
+	"lat": 59.3196149,
+	"long": 18.0504836
+},
+{
+	"name": "Kristinehovs malmgård",
+	"desc": "Hundrastgård vid Kristinehovs malmgård mot Högalidsgatan.",
+	"x": 6578154.82065047,
+	"y": 152352.639030872,
+	"lat": 59.3185429,
+	"long": 18.0413153
+},
+{
+	"name": "Tantoberget",
+	"desc": "Hundrastgård till höger om gångvägen upp mot platån (gamla värnet) på Tantoberget.",
+	"x": 6577542.72620582,
+	"y": 152512.444994641,
+	"lat": 59.3130475,
+	"long": 18.0441146
+},
+{
+	"name": "Malongenparken",
+	"desc": "Hundrastgård i Malongenparken, mittemot Renstiernas gata 47. Hundrastgården är i första hand till för lite mindre hundar, det vill säga en hund med mankhöjd upp till cirka 35 centimeter.",
+	"x": 6577367.99906632,
+	"y": 154862.555927816,
+	"lat": 59.3114585,
+	"long": 18.0853748
+},
+{
+	"name": "Vitabergsparken",
+	"desc": "Hundrastgård till vänster om Stora Mejtens gränd efter koloniträdgårdsområdet om man kommer från Skånegatan.",
+	"x": 6577403.16427678,
+	"y": 155198.823252888,
+	"lat": 59.3117702,
+	"long": 18.0912797
+},
+{
+	"name": "Sjöstadsparterren-Sickla Kanalbro",
+	"desc": "Hundrastgård söder om Sickla kanalbro.",
+	"x": 6576265.7895008,
+	"y": 156218.614356374,
+	"lat": 59.3015466,
+	"long": 18.1091522
+},
+{
+	"name": "Steningeparken",
+	"desc": "Hundrastgård. Steningeparken mellan Johanneshovsvägen och Sköntorpsvägen.",
+	"x": 6575883.94388729,
+	"y": 154134.217685567,
+	"lat": 59.2981445,
+	"long": 18.0725586
+},
+{
+	"name": "Kyrkparken",
+	"desc": "Hundrastområde. Parkområdet söder om bebyggelsen vid Bråviksvägen intill Tvärbanan.",
+	"x": 6575426.39755506,
+	"y": 153050.782502646,
+	"lat": 59.2940464,
+	"long": 18.0535371
+},
+{
+	"name": "Sjöviksbacken",
+	"desc": "Hundrastgård intill lekplatsen på Sjöviksbacken.",
+	"x": 6576478.29651832,
+	"y": 151640.625,
+	"lat": 59.3034968,
+	"long": 18.0287987
+},
+{
+	"name": "Västberga",
+	"desc": "Inhägnad hundrastgård. Vid Valsbergs gränd mot E4 i parkområdet norr om Södertäljevägen.",
+	"x": 6575988.23547363,
+	"y": 150420.09472847,
+	"lat": 59.2991006,
+	"long": 18.0073732
+},
+{
+	"name": "Midsommarkransen",
+	"desc": "Parkområdet norr om bebyggelse vid Bokbindarvägen och Fastlagsvägen.",
+	"x": 6576447.14355469,
+	"y": 149389.200210571,
+	"lat": 59.3032199,
+	"long": 17.9892784
+},
+{
+	"name": "Mälarhöjden",
+	"desc": "Naturmarken i parkområdet mellan Slättgårdsvägen och Bredängsvägen.",
+	"x": 6575184.459279,
+	"y": 147004.693905552,
+	"lat": 59.291875,
+	"long": 17.9474398
+},
+{
+	"name": "Mälarhöjden",
+	"desc": "Branterna i parkområdet väster om Slättgårdsvägen och söder om Mälarhöjdens tunnelbanestation.",
+	"x": 6575870.18088307,
+	"y": 147488.215549446,
+	"lat": 59.2980337,
+	"long": 17.9559165
+},
+{
+	"name": "Västertorp",
+	"desc": "Parkområdet väster och norr om Vasaloppsvägen.",
+	"x": 6575324.70703125,
+	"y": 147812.662124634,
+	"lat": 59.2931389,
+	"long": 17.9616162
+},
+{
+	"name": "Västertorp",
+	"desc": "Parkområdet väster om Personnevägen och söder om Västertorpsvägen.",
+	"x": 6575043.79843714,
+	"y": 148861.856583237,
+	"lat": 59.2906214,
+	"long": 17.9800291
+},
+{
+	"name": "Norra Solbergaskogen",
+	"desc": "Hundrastområde. Området avgränsas av parkvägen mellan Smyckegränd och Kristallvägen.",
+	"x": 6574797.36328125,
+	"y": 149770.059585571,
+	"lat": 59.2884107,
+	"long": 17.9959655
+},
+{
+	"name": "Solbergaskogen",
+	"desc": "Hundrastgård. Ovanför parkleken Kristallen.",
+	"x": 6574497.0703125,
+	"y": 150139.932632446,
+	"lat": 59.2857152,
+	"long": 18.002455
+},
+{
+	"name": "Långsjö",
+	"desc": "Hundrastområde. Långsjöbranten.",
+	"x": 6572104.79736328,
+	"y": 148852.314949036,
+	"lat": 59.264239,
+	"long": 17.9798773
+},
+{
+	"name": "Lindevägen",
+	"desc": "Hundrastområde. Parkmark mellan slakthusområdet och bebyggelsen vid Lindevägen.",
+	"x": 6574923.70605469,
+	"y": 154318.399429321,
+	"lat": 59.2895229,
+	"long": 18.075772
+},
+{
+	"name": "Nytorpsskogen",
+	"desc": "Skogsområdet öster om Nytorpsbadet.",
+	"x": 6574970.39794922,
+	"y": 156188.435554504,
+	"lat": 59.2899188,
+	"long": 18.1085855
+},
+{
+	"name": "Kärrtorp-Norra Gränsberget",
+	"desc": "Parkområde mellan förskoletomt vid Karlsövägens förlängning och Dalens koloniområde.",
+	"x": 6574471.43554687,
+	"y": 156147.623062134,
+	"lat": 59.2854404,
+	"long": 18.1078552
+},
+{
+	"name": "Kärrtorps idrottsplats",
+	"desc": "Skogsområde mellan Kärrtorps idrottsplats och kommungräns.",
+	"x": 6574341.43066406,
+	"y": 157209.634780884,
+	"lat": 59.2842566,
+	"long": 18.1264829
+},
+{
+	"name": "Kärrtorp-Södra Gränsberget",
+	"desc": "Parkområde mellan Sockenvägen och Skarpnäcks bollplan.",
+	"x": 6573903.80859375,
+	"y": 156497.354507446,
+	"lat": 59.2803398,
+	"long": 18.1139739
+},
+{
+	"name": "Svedmyraplan",
+	"desc": "Hundrastgård. Vid Svedmyraplan på ängen väster om tunnelbanespåren.",
+	"x": 6573892.82226563,
+	"y": 153898.029327393,
+	"lat": 59.2802731,
+	"long": 18.0683775
+},
+{
+	"name": "Svedmyraskogen",
+	"desc": "Hundrastområde. Parkområdet söder om Riskvägen-Svampvägen-Kantarellvägen.",
+	"x": 6573543.09082031,
+	"y": 154686.441421509,
+	"lat": 59.2771257,
+	"long": 18.0821998
+},
+{
+	"name": "Margaretaparken",
+	"desc": "Hundrastområde. Bergspartiet i Margaretaparken.",
+	"x": 6574094.23828125,
+	"y": 154787.149429321,
+	"lat": 59.282072,
+	"long": 18.0839784
+},
+{
+	"name": "Tallkrogen-Gubbängen",
+	"desc": "Parkmarken omedelbart väster om Nynäsvägen, från Örbyleden till bebyggelsen vid Olympiavägen.",
+	"x": 6572633.05664062,
+	"y": 155391.397476196,
+	"lat": 59.2689482,
+	"long": 18.0945421
+},
+{
+	"name": "Tallkrogen-Gubbängen 2",
+	"desc": "Parkmarken runt bebyggelsen vid Skrinvägen och Dörrvägen.",
+	"x": 6572188.11035156,
+	"y": 155166.177749634,
+	"lat": 59.2649569,
+	"long": 18.0905821
+},
+{
+	"name": "Tallkrogen",
+	"desc": "Parkmarken väster om tunnelbanespåret norr om Gubbängens tunnelbanestation.",
+	"x": 6572171.63085937,
+	"y": 154660.420417786,
+	"lat": 59.2648148,
+	"long": 18.0817139
+},
+{
+	"name": "Majrovägen",
+	"desc": "Majroskogen, Skogsområdet mellan Grycksbovägen och Målslingan (Majrovägens före detta västra del).",
+	"x": 6572116.69921875,
+	"y": 153931.660652161,
+	"lat": 59.2643291,
+	"long": 18.0689352
+},
+{
+	"name": "Vivastavarsvsvägen",
+	"desc": "Hundrastområde. Vivstavarvsvägen och Vivstavarvsparken söder om lekplatsen bid Bandhagsvägen.",
+	"x": 6573607.17773437,
+	"y": 153124.551773071,
+	"lat": 59.2777154,
+	"long": 18.0548054
+},
+{
+	"name": "Örby",
+	"desc": "Hundrastområde. Parkmark mellan Helgestavägen och Skebokvarnsvägen.",
+	"x": 6572958.984375,
+	"y": 152002.644538879,
+	"lat": 59.2719036,
+	"long": 18.0351209
+},
+{
+	"name": "Turingeparken",
+	"desc": "Hundrastgård. Turingeparken i Örby.",
+	"x": 6572548.828125,
+	"y": 151383.218765259,
+	"lat": 59.2682242,
+	"long": 18.0242552
+},
+{
+	"name": "Rågsved 1",
+	"desc": "Hundrastområde. Parkområdet sydväst om Nynäsbanan mellan Hagsätra IP och lekparken vid Hagsätravägen.",
+	"x": 6571918.02978516,
+	"y": 151495.442390442,
+	"lat": 59.2625613,
+	"long": 18.0262188
+},
+{
+	"name": "Sköndal-Farsta",
+	"desc": "Parkmarken norr om Farsta sjukhem.",
+	"x": 6570580.44433594,
+	"y": 155962.300300598,
+	"lat": 59.2505149,
+	"long": 18.1044968
+},
+{
+	"name": "Sköndal 1",
+	"desc": "Parkmarken väster om Dalbobranten.",
+	"x": 6570849.609375,
+	"y": 156384.358406067,
+	"lat": 59.252925,
+	"long": 18.1119018
+},
+{
+	"name": "Sköndal 2",
+	"desc": "Skogsområdet sydväst om Sköndalsvägens norra del, fram till Bagarfruvägen.",
+	"x": 6571421.81396484,
+	"y": 156256.184577942,
+	"lat": 59.2580634,
+	"long": 18.1096718
+},
+{
+	"name": "Orhemsskogen",
+	"desc": "Naturområde mellan Orhemsvägen (söder om Odlarens koloniområde) och diakonanstalten Stora Sköndal.",
+	"x": 6570938.41552734,
+	"y": 157718.281745911,
+	"lat": 59.2537,
+	"long": 18.1352852
+},
+{
+	"name": "Larsboda",
+	"desc": "Skogsområdet söder och väster om Mårbackagatan.",
+	"x": 6569436.95068359,
+	"y": 156308.369636536,
+	"lat": 59.2402451,
+	"long": 18.1105289
+},
+{
+	"name": "Rågsved 3",
+	"desc": "Hundrastområde. Skogsområde mellan Bjursätragatan och kommungränsen.",
+	"x": 6570855.10253906,
+	"y": 151312.336921692,
+	"lat": 59.2530204,
+	"long": 18.023002
+},
+{
+	"name": "Rågsved 2",
+	"desc": "Hundrastområde. Snösätraskogen söder om Nynäsbanan och väster om diket till Magelungen fram till Bråtegränd-Snösätravägen-Bjursätravägen.",
+	"x": 6571252.44140625,
+	"y": 152226.033210754,
+	"lat": 59.2565834,
+	"long": 18.039021
+},
+{
+	"name": "Trekantssjön",
+	"desc": "Hundrastområde söder om Trekantssjön.",
+	"x": 6577243.82191686,
+	"y": 150816.6507974,
+	"lat": 59.310371,
+	"long": 18.014338
+},
+{
+	"name": "Västberga",
+	"desc": "Hundrastområde. Vid Valsbergs gränd mot E4 i parkområdet norr om Södertäljevägen.",
+	"x": 6576021.5464682,
+	"y": 150494.106144948,
+	"lat": 59.2993996,
+	"long": 18.0086722
+},
+{
+	"name": "Västertorp",
+	"desc": "Hundrastgård vid Västertorps tunnelbanestation.",
+	"x": 6575151.49189419,
+	"y": 148094.669480609,
+	"lat": 59.2915854,
+	"long": 17.9665665
+},
+{
+	"name": "Fruängen",
+	"desc": "Hundrastområde söder om Ada Nilssons gata.",
+	"x": 6574307.52684303,
+	"y": 147317.712356127,
+	"lat": 59.2840052,
+	"long": 17.9529434
+},
+{
+	"name": "Hägerstensåsen",
+	"desc": "Hundrastområde norr om Mellanbergsvägen.",
+	"x": 6575459.18748576,
+	"y": 149281.641283164,
+	"lat": 59.2943512,
+	"long": 17.9873937
+},
+{
+	"name": "Mickelsbergsvägen",
+	"desc": "Hundrastgård vid norra änden av Mickelsbergsvägen.",
+	"x": 6574610.82678329,
+	"y": 148769.95141282,
+	"lat": 59.2867345,
+	"long": 17.978419
+},
+{
+	"name": "Mellanbergsparken",
+	"desc": "Hundrastgård i södra delen av Mellanbergsparken vid E4:an.",
+	"x": 6574900.39031321,
+	"y": 149169.95568186,
+	"lat": 59.2893348,
+	"long": 17.9854359
+}
+]
